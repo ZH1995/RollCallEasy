@@ -2,6 +2,8 @@
 
 一个基于 PySide6 的点名工具，支持随机点名和重置功能，适用于课堂或其他需要随机选择的场景。
 
+deepwiki：https://deepwiki.com/ZH1995/RollCallEasy/1-overview
+
 ## 功能特性
 
 - **随机点名**：从指定班级中随机选择一名学生。
